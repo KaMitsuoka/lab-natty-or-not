@@ -16,7 +16,7 @@ Em resumo, a capacidade das IAs de criar imagens realistas está transformando a
 
 ## 🤖 Tecnologias Utilizadas
 
-Gemini - para os textos
+Gemini - para o texto da descrição
 
 NightCafe - para as imagens
 
